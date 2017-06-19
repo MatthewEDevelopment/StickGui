@@ -1,0 +1,9 @@
+name: StickGui
+version: ${project.version}
+main: me.matt11matthew.gui.StickGui
+prefix: StickGui
+authors: [matt11matthew]
+description: StickGui
+commands:
+  stickgui:
+    description: open the stick gui

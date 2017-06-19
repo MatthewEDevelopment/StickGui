@@ -1,0 +1,9 @@
+sticks:
+  0:
+    name: "&acool"
+    lore:
+    - "line1"
+    command-run: kittycannon
+    uses: 10
+    delay: 5
+    cost: 1000.0
